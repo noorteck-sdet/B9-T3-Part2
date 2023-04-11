@@ -6,6 +6,10 @@ public class NoorsDemo {
 	
 		testing("Meridian adding a method to Noors demo class");
 		testing2("Added testing2 method... Hi Noor!! :-)");
+		
+		setName();// Juan (TeamMember) added the setName method into the main method to be tested in Noor's (TeamMember) NoorsDemo class. These changes will be stashed and unstashed for future reference.
+		
+		
 	}
 	public static void setName(){
 		System.out.println("Noor");
