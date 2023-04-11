@@ -6,6 +6,9 @@ public class Demo1 {
 		
 		test();
 		SetStudentName();		
+		concepcionJuan.JuanConcepcion obj = new concepcionJuan.JuanConcepcion(); //first change to Meridian's code by Juan//I created a reference object to concepcionJuan package and the JuanConcepcion class
+		
+		obj.juan(null); // second change to Meridian's code by Juan// I called the object.juan method which it should print "Juan" which is Juan's name.
 		
 	}
 
@@ -18,5 +21,6 @@ public class Demo1 {
 		System.out.println("Meridian Valverde");
 	
 	}
+	
 
 }
