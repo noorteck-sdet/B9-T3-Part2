@@ -8,7 +8,7 @@ public class Demo1 {
 
 	public static void setName() {
 
-		System.out.println("Hamza");
+		System.out.println("Hamza Sadeq"); //Added last name
 	}
 
 	public static void getInfo() {
