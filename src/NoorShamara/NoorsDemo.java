@@ -8,6 +8,7 @@ public class NoorsDemo {
 		testing2("Added testing2 method... Hi Noor!! :-)");
 		
 		setName();// Juan (TeamMember) added the setName method into the main method to be tested in Noor's (TeamMember) NoorsDemo class. These changes will be stashed and unstashed for future reference.
+		// Juan why did you add setName?
 		
 		
 	}
