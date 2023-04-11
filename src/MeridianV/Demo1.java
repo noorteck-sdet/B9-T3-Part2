@@ -22,5 +22,8 @@ public class Demo1 {
 	
 	}
 	
+	public static void setWeather( ) {
+		System.out.println("Suny");
+	}
 
 }
