@@ -12,4 +12,8 @@ public class JuanConcepcion {
 		b = "Concepcion";
 		
 	}
+	
+	public static void sentence(String a) {
+		a = "Jen was here";
+	}
 }
