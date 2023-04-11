@@ -17,4 +17,7 @@ public class YuliyaClass {
 	public void location() {
 		System.out.println("I am in Arizona, where are u guys?");
 	}
+	public static void noorsTest() {
+		System.out.println("Hi Yulia this is Noor");
+	}
 }

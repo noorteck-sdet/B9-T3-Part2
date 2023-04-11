@@ -19,6 +19,9 @@ public class NoorsDemo {
 	public static void setAge() {
 		System.out.println("10");
 	}
+	public static void test() {
+		System.out.println("Tusday test...");
+	}
 	
 	public static void testing(String a) {
 		System.out.println(a);

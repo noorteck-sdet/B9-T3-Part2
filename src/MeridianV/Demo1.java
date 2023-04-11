@@ -25,5 +25,8 @@ public class Demo1 {
 	public static void setWeather( ) {
 		System.out.println("Suny");
 	}
+	public static void noorsTest() {
+		System.out.println("Hi this is Noor");
+	}
 
 }
