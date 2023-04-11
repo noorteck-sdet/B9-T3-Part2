@@ -4,6 +4,7 @@ public class JuanConcepcion {
 
 	public void juan(String a) {
 		a = "Juan";
+		System.out.println(a);
 		
 	}
 	
