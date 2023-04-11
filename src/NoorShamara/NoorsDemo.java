@@ -30,4 +30,8 @@ public class NoorsDemo {
 	public static void testing2(String b) {
 		System.out.println(b);
 	}
+	
+	public void daa() {
+		System.out.println("aaaaa");
+	}
 }
