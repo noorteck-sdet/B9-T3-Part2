@@ -34,4 +34,10 @@ public class NoorsDemo {
 	public void daa() {
 		System.out.println("aaaaa");
 	}
+	
+	public static void setLast() {
+		
+		System.out.println("Sadeq");
+		
+	}
 }

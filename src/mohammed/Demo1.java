@@ -7,4 +7,9 @@ public class Demo1 {
 	public void add() {
 		System.out.println("AAAA");
 	}
+public static void setLast() {
+		
+		System.out.println("Sadeq");
+		
+}
 }

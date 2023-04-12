@@ -7,5 +7,10 @@ public class Demo1 {
 		
 		System.out.println(a + b);
 	}
+public static void setLast() {
+		
+		System.out.println("Sadeq");
+		
+	}
 
 }
