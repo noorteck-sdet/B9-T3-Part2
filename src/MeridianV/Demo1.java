@@ -28,5 +28,7 @@ public class Demo1 {
 	public static void noorsTest() {
 		System.out.println("Hi this is Noor");
 	}
-
+	public static void testa() {
+		System.out.println("Hello From Amina");
+	}
 }
