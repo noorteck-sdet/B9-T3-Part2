@@ -16,4 +16,8 @@ public class JuanConcepcion {
 	public static void sentence(String a) {
 		a = "Jen was here";
 	}
+	
+	public void add (int a, int b) {
+		System.out.println(a + b);
+	}
 }
