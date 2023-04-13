@@ -40,4 +40,4 @@ public class NoorsDemo {
 		System.out.println("Sadeq");
 		
 	}
-}
+}//noor
