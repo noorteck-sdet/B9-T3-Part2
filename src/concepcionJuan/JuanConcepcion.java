@@ -1,7 +1,8 @@
 package concepcionJuan;
 
 public class JuanConcepcion {
-
+public static void main(String[] args) { // added a main method in JuanConcepcion Class
+}
 	public void juan(String a) {
 		a = "Juan";
 		System.out.println(a);
@@ -19,5 +20,11 @@ public class JuanConcepcion {
 	
 	public void add (int a, int b) {
 		System.out.println(a + b);
+		
 	}
+	public static void getName() {
+		System.out.println("My name is Yuliya");
+	}
+	
+	
 }
