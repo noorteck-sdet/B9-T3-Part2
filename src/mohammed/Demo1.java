@@ -12,4 +12,8 @@ public static void setLast() {
 		System.out.println("Sadeq");
 		
 }
+
+public void minus() {
+	System.out.println(4-3);
+}
 }
