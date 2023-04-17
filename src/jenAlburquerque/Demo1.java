@@ -16,5 +16,7 @@ public static void setLast() {
 public static void getName() {
 	
 	System.out.println("Yuliya was here...");
+	System.out.println("Yuliya is here again");
 }
+
 }
