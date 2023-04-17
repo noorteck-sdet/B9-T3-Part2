@@ -12,5 +12,8 @@ public static void setLast() {
 		System.out.println("Sadeq");
 		
 	}
-
+public static void getName() {
+	
+	System.out.println("Yuliya was here...");
+}
 }
