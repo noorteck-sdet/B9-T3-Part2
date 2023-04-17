@@ -19,5 +19,11 @@ public class JuanConcepcion {
 	
 	public void add (int a, int b) {
 		System.out.println(a + b);
+		
 	}
+	public static void getName() {
+		System.out.println("My name is Yuliya");
+	}
+	
+	
 }
