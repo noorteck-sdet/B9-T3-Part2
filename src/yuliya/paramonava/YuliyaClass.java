@@ -20,6 +20,7 @@ public class YuliyaClass {
 	public static void noorsTest() {
 		System.out.println("Hi Yulia this is Noor");
 		String name = "Noor";
+		String Propername = "Yuliya";
 	}
 	
 }
