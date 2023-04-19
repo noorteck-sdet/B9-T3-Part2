@@ -1,6 +1,8 @@
 package concepcionJuan;
 
 import java.util.ArrayList; //importing ArrayList class
+import java.util.LinkedList; // importing the LinkedList class
+import java.util.Vector; // importing the Vector class
 
 public class UserNameStoring {
 	public static void main(String[] args) {
