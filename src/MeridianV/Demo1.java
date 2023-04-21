@@ -30,5 +30,7 @@ public class Demo1 {
 	}
 	public static void testa() {
 		System.out.println("Hello From Amina");
+		
+		System.out.println( "Practing with Yuliya");
 	}
 }

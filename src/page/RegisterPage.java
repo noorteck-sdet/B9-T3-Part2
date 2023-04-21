@@ -1,5 +1,11 @@
 package page;
 
-public class RegisterPage {
+abstract public interface RegisterPage {
 
+String name = "";
+String secondName = "";
+String maidensName = "";
+String email = "";
+String userName = "";
+String createAPassword = "";
 }
