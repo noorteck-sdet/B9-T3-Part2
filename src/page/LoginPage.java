@@ -1,8 +1,9 @@
 package page;
 
-public class LoginPage extends RegisterPage {
+abstract public class LoginPage implements RegisterPage {
 
-	private String password = createAPassword;
+	private String user = RegisterPage.userName;
+	private String password = RegisterPage.createAPassword;
 
 	public void setPassword(String password) {
 		this.password = password;
@@ -10,6 +11,14 @@ public class LoginPage extends RegisterPage {
 
 	public String getPassword() {
 		return password;
+	}
+
+	public String getUser() {
+		return user;
+	}
+
+	public void setUser(String user) {
+		this.user = user;
 	}
 
 }
