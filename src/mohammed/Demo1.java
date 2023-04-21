@@ -10,6 +10,7 @@ public class Demo1 {
 public static void setLast() {
 		
 		System.out.println("Sadeq");
+		System.out.println("test 2");
 		
 }
 }
