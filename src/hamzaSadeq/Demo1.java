@@ -19,6 +19,9 @@ public class Demo1 {
 		System.out.println("Hi Hamza miss U...");// guess who is this?
 		System.out.println("Mohammed");
 	         System.out.println("Noor");
+		 
+		 System.out.println("Mohammed s");
+		
 	}
 
 }
