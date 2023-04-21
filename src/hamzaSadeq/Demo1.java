@@ -17,6 +17,8 @@ public class Demo1 {
 	}
 	public static void noorsTest() {
 		System.out.println("Hi Hamza miss U...");// guess who is this?
+		System.out.println("Mohammed");
+	
 	}
 
 }
